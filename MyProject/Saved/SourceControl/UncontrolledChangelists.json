@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/git_repo/meandyahia/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"D:/git_repo/meandyahia/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/git_repo/meandyahia/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"D:/git_repo/meandyahia/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/03/DJ4Y2Z172ZW1DV5HVSOJMI.uasset"
 			]
 		}
 	]
